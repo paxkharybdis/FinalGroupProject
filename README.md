@@ -12,7 +12,7 @@ We documented our Use Case Scenario and our structural UMLs using [StarUML].  Th
 ### IDE
 We used [Visual Studio 2017 Community Edition] for our IDE, with the [Code Maid] extension to make sure our code was consistent and maintainable. 
 
-A special shout-out to [Dillinger Online Markdown Editor], because it is just easier.  
+A special shout-out to [Dillinger Online Markdown Editor], because this is new to me and it is so much easier.  *high five* 
 
 [//]: # (These are the links used in the body of this document.)
    [taiga.io]: <http://taiga.io>
