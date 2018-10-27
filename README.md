@@ -21,4 +21,5 @@ We used [Visual Studio 2017 Community Edition] for our IDE, with the [Code Maid]
    [Visual Studio 2017 Community Edition]: <http://visualstudio.microsoft.com>
    [Google Slides]: <https://www.google.com/slides/about/>
    [Code Maid]: <http://www.codemaid.net/>
+   [Dillinger Online Markdown Editor]: <http://dillinger.io>
 
